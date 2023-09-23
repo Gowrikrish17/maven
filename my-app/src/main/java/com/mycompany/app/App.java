@@ -6,10 +6,8 @@ package com.mycompany.app;
  */
 public class App 
 {
-    int a= 10, b=20, c=30;
     public static void main( String[] args )
     {
-    int d = a+b+c;
-        System.out.println( "welcome to branch2"+ d );
+        System.out.println( "Hello Wrold!" );
     }
 }
