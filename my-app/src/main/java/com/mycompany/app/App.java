@@ -9,7 +9,7 @@ public class App
     int a= 10, b=20, c=30;
     public static void main( String[] args )
     {
-    int d = a+b-c;
+    int d = a+b+c;
         System.out.println( "Hello World!"+d );
     }
 }
